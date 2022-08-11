@@ -5,6 +5,7 @@ body{
   justify-content: center;
   align-items: center;
   text-align: center;
+  margin-top:20px;
   background-image: url(https://image.shutterstock.com/z/stock-vector-love-eat-logo-cafe-or-restaurant-emblem-plate-with-fork-spoon-and-fried-eggs-in-the-yellow-513914290.jpg);
 }
 
@@ -17,9 +18,9 @@ body{
     width:600px;
     background-color: #FFEA11;
     border-radius: 1.5rem;
-    margin-top: 100px;
-    margin-bottom: 100px;
-    
+
+
+
     text-align: center;
 
 
