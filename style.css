@@ -1,7 +1,10 @@
 
 body{
   display: flex;
+  flex-direction: column;
   justify-content: center;
+  align-items: center;
+  text-align: center;
   background-image: url(https://image.shutterstock.com/z/stock-vector-love-eat-logo-cafe-or-restaurant-emblem-plate-with-fork-spoon-and-fried-eggs-in-the-yellow-513914290.jpg);
 }
 
@@ -9,16 +12,14 @@ body{
 
 @media (min-width:500px) {
   .Flex-Container{
-    display: flex;
-    flex-direction: column;
+
     height:650px;
     width:600px;
     background-color: #FFEA11;
     border-radius: 1.5rem;
     margin-top: 100px;
     margin-bottom: 100px;
-    justify-content: center;
-    align-items: center;
+    
     text-align: center;
 
 
