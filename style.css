@@ -7,7 +7,7 @@ body{
 
 
 
-@media (min-width:400px) {
+@media (min-width:500px) {
   .Flex-Container{
     display: flex;
     flex-direction: column;
